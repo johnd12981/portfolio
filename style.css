@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(29, 29, 29);
+    margin: 0;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    color:rgb(85, 100, 233);
+    font-family: Poppins;
+    font-size: 50px;
+}
+
+.description {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: Inter;
+    font-size: 24px;
+}
